@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'PixelatedPusab';
+    src: url('PixelatedPusab.woff2') format('woff2'),
+        url('PixelatedPusab.woff') format('woff'),
+        url('PixelatedPusab.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
